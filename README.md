@@ -1,0 +1,2 @@
+# outsourcing
+ocr competition
